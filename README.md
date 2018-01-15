@@ -55,3 +55,7 @@ Attempts have been made to keep the notes as brief as possible, and omit content
    2. [Structures and Enumerations are Value Types](/7%20-%20Classes%20and%20Structures/7.2%20-%20Structures%20and%20Enumerations%20are%20Value%20Types.md)
    3. [Classes are Reference Types](/7%20-%20Classes%20and%20Structures/7.3%20-%20Classes%20are%20Reference%20Types.md)
    4. [Choosing Between Classes and Structures](/7%20-%20Classes%20and%20Structures/7.4%20-%20Choosing%20Between%20Classes%20and%20Structures.md)
+8. [Properties](/8%20-%20Properties)
+   0. [Intro](/8%20-%20Properties/8.0%20-%20Properties.md)
+   1. [Stored Properties](/8%20-%20Properties/8.1%20-%20Stored%20Properties.md)
+   2. [Property Observers](/8%20-%20Properties/8.2%20-%20Property%20Observers.md)

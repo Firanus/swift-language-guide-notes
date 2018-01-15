@@ -46,3 +46,6 @@ Attempts have been made to keep the notes as brief as possible, and omit content
    2. [Switch Statements](/5%20-%20Control%20Flow/5.2%20-%20Switch%20Statements.md)
    3. [Control Transfer Statements](/5%20-%20Control%20Flow/5.3%20-%20Control%20Transfer%20Statements.md)
    4. [Early Exit](/5%20-%20Control%20Flow/5.4%20-%20Early%20Exit.md)
+5. [Functions](/6%20-%20Functions)
+   0. [Intro](/6%20-%20Functions/6.0%20-%20Functions.md)
+   1. [Argument Labels and Parameter Names](/6%20-%20Functions/6.1%20-%20Argument%20Labels%20and%20Parameter%20Names.md) 

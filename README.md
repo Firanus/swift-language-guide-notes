@@ -59,3 +59,6 @@ Attempts have been made to keep the notes as brief as possible, and omit content
    0. [Intro](/8%20-%20Properties/8.0%20-%20Properties.md)
    1. [Stored Properties](/8%20-%20Properties/8.1%20-%20Stored%20Properties.md)
    2. [Property Observers](/8%20-%20Properties/8.2%20-%20Property%20Observers.md)
+9. [Methods](/9%20-%20Methods)
+   0. [Intro](/9%20-%20Methods/9.0%20-%20Methods.md)
+   1. [Instance Methods](/9%20-%20Methods/9.1%20-%20Instance%20Methods.md) 

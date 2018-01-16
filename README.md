@@ -37,7 +37,7 @@ Attempts have been made to keep the notes as brief as possible, and omit content
    1. [Accessing and Modifying a String](/3%20-%20Strings%20and%20Characters/3.3%20-%20Accessing%20and%20Modifying%20a%20String.md)
    1. [Substrings](/3%20-%20Strings%20and%20Characters/3.4%20-%20Substrings.md)
    1. [Comparing Strings](/3%20-%20Strings%20and%20Characters/3.5%20-%20Comparing%20Strings.md)
-   2. [Unicode Representations of Strings](/3%20-%20Strings%20and%20Characters/3.6%20-%20Unicode%20Representations%20of%20Strings%20Strings.md)
+   2. [Unicode Representations of Strings](/3%20-%20Strings%20and%20Characters/3.6%20-%20Unicode%20Representations%20of%20Strings.md)
 4. [Collection Types](/4%20-%20Collection%20Types)
    0. [Intro](/4%20-%20Collection%20Types/4.0%20-%20Collection%20Types.md)
    1. [Arrays](/4%20-%20Collection%20Types/4.1%20-%20Arrays.md)

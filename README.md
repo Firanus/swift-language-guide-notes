@@ -86,3 +86,4 @@ Read all of sections 1 - 11, with the following exceptions:
 * Section 3.6 - Unicode Representations of Strings
 * Section 4.3 - Sets
 * Section 4.4 - Performing Set Operations
+* Part of Section 5.2. Ignore everything related to Tuples

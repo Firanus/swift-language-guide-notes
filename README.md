@@ -2,7 +2,7 @@
 
 This repository compiles notes made on the Swift language guide. The order in which the notes were made was dictated by the Stanford course 'Developing iOS 11 apps with Swift', and the releases reflect the reading exercises made in that course.
 
-Attempts have been made to keep the notes as brief as possible, and omit content that would be intuitive to a programmer with some experience of Object Oriented Languages. If you ever feel you need more detail, there is no better source than the [official language guide itself](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+Attempts have been made to keep the notes as brief as possible, and omit content that would be intuitive to a programmer with some experience of Object Oriented Languages. If you ever feel you need more detail, there is no better source than the [official language guide itself](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309). Each note is also linked to the appropriate section of the language guide.
 
 ## Table of Contents
 
@@ -42,6 +42,8 @@ Attempts have been made to keep the notes as brief as possible, and omit content
    0. [Intro](/4%20-%20Collection%20Types/4.0%20-%20Collection%20Types.md)
    1. [Arrays](/4%20-%20Collection%20Types/4.1%20-%20Arrays.md)
    2. [Dictionaries](/4%20-%20Collection%20Types/4.2%20-%20Dictionaries.md)
+   3. [Sets](/4%20-%20Collection%20Types/4.3%20-%20Sets.md)
+   4. [Performing Set Operations](/4%20-%20Collection%20Types/4.4%20-%20Performing%20Set%20Operations.md)
 5. [Control Flow](/5%20-%20Control%20Flow)
    0. [Intro](/5%20-%20Control%20Flow/5.0%20-%20Control%20Flow.md)
    1. [For-in loops](/5%20-%20Control%20Flow/5.1%20-%20For-in%20Loops.md)
@@ -82,3 +84,5 @@ Read all of sections 1 - 11, with the following exceptions:
 
 * Section 1.11 - Tuples
 * Section 3.6 - Unicode Representations of Strings
+* Section 4.3 - Sets
+* Section 4.4 - Performing Set Operations

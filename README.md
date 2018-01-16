@@ -1,8 +1,8 @@
 # Swift Language Guide Notes
 
-This repository compiles notes made on the Swift language guide. The order in which the notes were made was dictated by the Stanford course 'Developing iOS 11 apps with Swift 4', and the releases reflect the reading exercises made in that course.
+This repository compiles notes made on the Swift language guide. The order in which the notes were made was dictated by the Stanford course 'Developing iOS 11 apps with Swift', and the releases reflect the reading exercises made in that course.
 
-Attempts have been made to keep the notes as brief as possible, and omit content that would be intuitive to a programmer of moderate skill. Bear this in mind. If you ever feel you need more detail, there is no better source than the [official language guide itself](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+Attempts have been made to keep the notes as brief as possible, and omit content that would be intuitive to a programmer with some experience of Object Oriented Languages. If you ever feel you need more detail, there is no better source than the [official language guide itself](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 
 ## Table of Contents
 
@@ -18,9 +18,10 @@ Attempts have been made to keep the notes as brief as possible, and omit content
    1. [Numeric Type Conversion](/1%20-%20The%20Basics/1.8%20-%20Numeric%20Type%20Conversion.md)
    1. [Type Aliases](/1%20-%20The%20Basics/1.9%20-%20Type%20Aliases.md)
    1. [Booleans](/1%20-%20The%20Basics/1.10%20-%20Booleans.md)
-   1. [Optionals](/1%20-%20The%20Basics/1.11%20-%20Optionals.md)
-   1. [Error Handling](/1%20-%20The%20Basics/1.12%20-%20Error%20Handling.md)
-   1. [Assertions and Preconditions](/1%20-%20The%20Basics/1.13%20-%20Assertions%20and%20Preconditions.md)
+   2. [Tuples](/1%20-%20The%20Basics/1.11%20-%20Tuples.md)
+   1. [Optionals](/1%20-%20The%20Basics/1.12%20-%20Optionals.md)
+   1. [Error Handling](/1%20-%20The%20Basics/1.13%20-%20Error%20Handling.md)
+   1. [Assertions and Preconditions](/1%20-%20The%20Basics/1.14%20-%20Assertions%20and%20Preconditions.md)
 2. [Basic Operators](/2%20-%20Basic%20Operators)
    0. [Intro](/2%20-%20Basic%20Operators/2.0%20-%20Basic%20Operators.md)
    1. [Terminology](/2%20-%20Basic%20Operators/2.1%20-%20Terminology.md)
@@ -69,3 +70,13 @@ Attempts have been made to keep the notes as brief as possible, and omit content
     2. [Customizing Initialization](/11%20-%20Initialization/11.2%20-%20Customizing%20Initialization.md)
     3. [Default Initializers](/11%20-%20Initialization/11.3%20-%20Default%20Initializers.md)
     4. [Initializer Delegation for Value Types](/11%20-%20Initialization/11.4%20-%20Initializer%20Delegation%20for%20Value%20Types.md)
+
+## Stanford iOS Reading Exercised
+
+The guide below outlines the order you should read these notes in if you are following the Stanford iOS course, and wish to complete the reading exercises in the same order.
+
+### Reading 1
+
+Read all of sections 1 - 11, with the following exceptions:
+
+* Section 1.11 - Tuples

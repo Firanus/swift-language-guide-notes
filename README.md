@@ -1,6 +1,6 @@
 # Swift Language Guide Notes
 
-This repository compiles notes made on the Swift language guide. The order in which the notes were made was dictated by the Stanford course 'Developing iOS 11 apps with Swift', and the releases reflect the reading exercises made in that course.
+This repository compiles notes made on the Swift language guide. The order in which the notes were made was dictated by the Stanford course 'Developing iOS 11 apps with Swift', and the releases reflect the reading exercises made in that course. As a result, if you are following along with the official [Swift Language Guide](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309), there will be small differences in the order topics are covered
 
 Attempts have been made to keep the notes as brief as possible, and omit content that would be intuitive to a programmer with some experience of Object Oriented Languages. If you ever feel you need more detail, there is no better source than the [official language guide itself](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309). Each note is also linked to the appropriate section of the language guide.
 
@@ -75,6 +75,12 @@ Attempts have been made to keep the notes as brief as possible, and omit content
     2. [Customizing Initialization](/11%20-%20Initialization/11.2%20-%20Customizing%20Initialization.md)
     3. [Default Initializers](/11%20-%20Initialization/11.3%20-%20Default%20Initializers.md)
     4. [Initializer Delegation for Value Types](/11%20-%20Initialization/11.4%20-%20Initializer%20Delegation%20for%20Value%20Types.md)
+12. [Closures](/12%20-%20Closures)
+    0. [Intro](/12%20-%20Closures/12.0%20-%20Closures.md)
+    1. [Closure Expressions](/12%20-%20Closures/12.1%20-%20Closure%20Expressions.md)
+    2. [Trailing Closures](/12%20-%20Closures/12.2%20-%20Trailing%20Closures.md)
+    3. [Capturing Values](/12%20-%20Closures/12.3%20-%20Capturing%20Values.md)
+    4. [Closures are Reference Types](/12%20-%20Closures/12.4%20-%20Closures%20are%20Reference%20Types.md)
 
 ## Stanford iOS Reading Exercised
 

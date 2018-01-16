@@ -53,6 +53,8 @@ Attempts have been made to keep the notes as brief as possible, and omit content
 6. [Functions](/6%20-%20Functions)
    0. [Intro](/6%20-%20Functions/6.0%20-%20Functions.md)
    1. [Argument Labels and Parameter Names](/6%20-%20Functions/6.1%20-%20Argument%20Labels%20and%20Parameter%20Names.md)
+   2. [Functions with Multiple Return Values](/6%20-%20Functions/6.2%20-%20Functions%20with%20Multiple%20Return%20Values.md)
+   3. [Function Types](/6%20-%20Functions/6.3%20-%20Function%20Types.md)
 7. [Classes and Structures](/7%20-%20Classes%20and%20Structures)
    0. [Intro](/7%20-%20Classes%20and%20Structures/7.0%20-%20Classes%20and%20Structures.md)
    1. [Comparing Classes and Structures](/7%20-%20Classes%20and%20Structures/7.1%20-%20Comparing%20Classes%20and%20Structures.md)
@@ -87,3 +89,6 @@ Read all of sections 1 - 11, with the following exceptions:
 * Section 4.3 - Sets
 * Section 4.4 - Performing Set Operations
 * Part of Section 5.2. Ignore everything related to Tuples
+* Part of Section 6.1 - Ignore Variadic Parameters and In-Out Parameters
+* Section 6.2 - Functions with Multiple Return Values
+* Section 6.3 - Function Types

@@ -111,3 +111,4 @@ Read all of sections 1 - 11, with the following exceptions:
 * Section 6.2 - Functions with Multiple Return Values
 * Section 6.3 - Function Types
 * Section 8.3 - Computed Properties
+* Part of Section 10 - Ignore Overriding Properties

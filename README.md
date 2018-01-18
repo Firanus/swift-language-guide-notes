@@ -89,6 +89,10 @@ Attempts have been made to keep the notes as brief as possible, and omit content
     3. [Associated Values](/13%20-%20Enumerations/13.3%20-%20Associated%20Values%20Syntax.md)
     4. [Raw Values](/13%20-%20Enumerations/13.4%20-%20Raw%20Values%20Syntax.md)
     5. [Recursive Enumerations](/13%20-%20Enumerations/13.5%20-%20Recursive%20Enumerations.md)
+14. [Subscripts](/14%20-%20Subscripts)
+    0. [Intro](/14%20-%20Subscripts/14.0%20-%20Subscripts.md)
+    1. [Subscript Syntax](/14%20-%20Subscripts/14.1%20-%20Subscript%20Syntax.md)
+    2. [Subscript Options](/14%20-%20Subscripts/14.2%20-%20Subscript%20Options.md)
 
 ## Stanford iOS Reading Exercised
 

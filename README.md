@@ -81,6 +81,13 @@ Attempts have been made to keep the notes as brief as possible, and omit content
     2. [Trailing Closures](/12%20-%20Closures/12.2%20-%20Trailing%20Closures.md)
     3. [Capturing Values](/12%20-%20Closures/12.3%20-%20Capturing%20Values.md)
     4. [Closures are Reference Types](/12%20-%20Closures/12.4%20-%20Closures%20are%20Reference%20Types.md)
+5. [Enumerations](/13%20-%20Enumerations)
+    0. [Intro](/13%20-%20Enumerations/13.0%20-%20Enumerations.md)
+    1. [Enumeration Syntax](/13%20-%20Enumerations/13.1%20-%20Enumeration%20Syntax.md)
+    2. [Matching Enumeration Values with a Switch Statement](/13%20-%20Enumerations/13.2%20-%20Matching%20Enumeration%20Values%20with%20a%20Switch%20Statement.md)
+    3. [Associated Values](/13%20-%20Enumerations/13.3%20-%20Associated%20Values%20Syntax.md)
+    4. [Raw Values](/13%20-%20Enumerations/13.4%20-%20Raw%20Values%20Syntax.md)
+    5. [Recursive Enumerations](/13%20-%20Enumerations/13.5%20-%20Recursive%20Enumerations.md)
 
 ## Stanford iOS Reading Exercised
 

@@ -65,6 +65,7 @@ Attempts have been made to keep the notes as brief as possible, and omit content
    0. [Intro](/8%20-%20Properties/8.0%20-%20Properties.md)
    1. [Stored Properties](/8%20-%20Properties/8.1%20-%20Stored%20Properties.md)
    2. [Property Observers](/8%20-%20Properties/8.2%20-%20Property%20Observers.md)
+   3. [Computed Properties](/8%20-%20Properties/8.3%20-%20Computed%20Properties.md)
 9. [Methods](/9%20-%20Methods)
    0. [Intro](/9%20-%20Methods/9.0%20-%20Methods.md)
    1. [Instance Methods](/9%20-%20Methods/9.1%20-%20Instance%20Methods.md)
@@ -105,3 +106,4 @@ Read all of sections 1 - 11, with the following exceptions:
 * Part of Section 6.1 - Ignore Variadic Parameters and In-Out Parameters
 * Section 6.2 - Functions with Multiple Return Values
 * Section 6.3 - Function Types
+* Section 8.3 - Computed Properties

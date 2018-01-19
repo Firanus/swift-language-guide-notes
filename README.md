@@ -99,6 +99,9 @@ Attempts have been made to keep the notes as brief as possible, and omit content
     0. [Intro](/14%20-%20Subscripts/14.0%20-%20Subscripts.md)
     1. [Subscript Syntax](/14%20-%20Subscripts/14.1%20-%20Subscript%20Syntax.md)
     2. [Subscript Options](/14%20-%20Subscripts/14.2%20-%20Subscript%20Options.md)
+15. [Optional Chaining](/15%20-%20Optional%20Chaining)
+    0. [Intro](/15%20-%20Optional%20Chaining/15.0%20-%20Optional%20Chaining.md)
+    1. [Linking Multiple Levels of Chaining](/15%20-%20Optional%20Chaining/15.1%20-%20Linking%20Multiple%20Levels%20of%20Chaining.md)
 
 ## Stanford iOS Reading Exercised
 

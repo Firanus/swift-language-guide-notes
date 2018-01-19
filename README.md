@@ -102,6 +102,8 @@ Attempts have been made to keep the notes as brief as possible, and omit content
 15. [Optional Chaining](/15%20-%20Optional%20Chaining)
     0. [Intro](/15%20-%20Optional%20Chaining/15.0%20-%20Optional%20Chaining.md)
     1. [Linking Multiple Levels of Chaining](/15%20-%20Optional%20Chaining/15.1%20-%20Linking%20Multiple%20Levels%20of%20Chaining.md)
+16. [Nested Types](/16%20-%20Nested%20Types)
+    0. [Intro](/16%20-%20Nested%20Types/16.0%20-%20Nested%20Types.md)
 
 ## Stanford iOS Reading Exercised
 

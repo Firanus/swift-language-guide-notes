@@ -77,7 +77,7 @@ Attempts have been made to keep the notes as brief as possible, and omit content
     3. [Default Initializers](/11%20-%20Initialization/11.3%20-%20Default%20Initializers.md)
     4. [Initializer Delegation for Value Types](/11%20-%20Initialization/11.4%20-%20Initializer%20Delegation%20for%20Value%20Types.md)
     5. [Class Inheritance and Initialization](/11%20-%20Initialization/11.5%20-%20Class%20Inheritance%20and%20Initialization.md)
-    6. [Class Initialization has Two Phases](/11%20-%20Initialization/11.6%20-%20Class%20Inheritance%20and%20Initialization.md)
+    6. [Class Initialization has Two Phases](/11%20-%20Initialization/11.6%20-%20Class%20Initialization%20has%20Two%20Phases.md)
     7. [Initializer Inheritance and Overriding](/11%20-%20Initialization/11.7%20-%20Initializer%20Inheritance%20and%20Overriding.md)
     8. [Failable Initialisers](/11%20-%20Initialization/11.8%20-%20Failable%20Initialisers.md)
     9. [Required Initialisers](/11%20-%20Initialization/11.9%20-%20Required%20Initialisers.md)

@@ -76,6 +76,12 @@ Attempts have been made to keep the notes as brief as possible, and omit content
     2. [Customizing Initialization](/11%20-%20Initialization/11.2%20-%20Customizing%20Initialization.md)
     3. [Default Initializers](/11%20-%20Initialization/11.3%20-%20Default%20Initializers.md)
     4. [Initializer Delegation for Value Types](/11%20-%20Initialization/11.4%20-%20Initializer%20Delegation%20for%20Value%20Types.md)
+    5. [Class Inheritance and Initialization](/11%20-%20Initialization/11.5%20-%20Class%20Inheritance%20and%20Initialization.md)
+    6. [Class Initialization has Two Phases](/11%20-%20Initialization/11.6%20-%20Class%20Inheritance%20and%20Initialization.md)
+    7. [Initializer Inheritance and Overriding](/11%20-%20Initialization/11.7%20-%20Initializer%20Inheritance%20and%20Overriding.md)
+    8. [Failable Initialisers](/11%20-%20Initialization/11.8%20-%20Failable%20Initialisers.md)
+    9. [Required Initialisers](/11%20-%20Initialization/11.9%20-%20Required%20Initialisers.md)
+    10. [Setting a Default Property Value with a Closure or Function](/11%20-%20Initialization/11.10%20-%20Setting%20a%20Default%20Property%20Value%20with%20a%20Closure%20or%20Function.md)
 12. [Closures](/12%20-%20Closures)
     0. [Intro](/12%20-%20Closures/12.0%20-%20Closures.md)
     1. [Closure Expressions](/12%20-%20Closures/12.1%20-%20Closure%20Expressions.md)
@@ -112,3 +118,4 @@ Read all of sections 1 - 11, with the following exceptions:
 * Section 6.3 - Function Types
 * Section 8.3 - Computed Properties
 * Part of Section 10 - Ignore Overriding Properties
+* Section 11.5 - 11.10 - Initializers

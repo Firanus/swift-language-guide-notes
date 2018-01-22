@@ -104,6 +104,17 @@ Attempts have been made to keep the notes as brief as possible, and omit content
     1. [Linking Multiple Levels of Chaining](/15%20-%20Optional%20Chaining/15.1%20-%20Linking%20Multiple%20Levels%20of%20Chaining.md)
 16. [Nested Types](/16%20-%20Nested%20Types/16.0%20-%20Nested%20Types.md)
 17. [Extensions](/17%20-%20Extensions/17.0%20-%20Extensions.md)
+18. [Protocols](/18%20-%20Protocols)
+    0. [Intro](/18%20-%20Protocols/18.0%20-%20Protocols.md)
+    1. [Property Requirements](/18%20-%20Protocols/18.1%20-%20Property%20Requirements.md)
+    2. [Method Requirements](/18%20-%20Protocols/18.2%20-%20Method%20Requirements.md)
+    3. [Initializer Requirements](/18%20-%20Protocols/18.3%20-%20Initializer%20Requirements.md)
+    4. [Protocols as Types](/18%20-%20Protocols/18.4%20-%20Protocols%20as%20Types.md)
+    5. [Delegation](/18%20-%20Protocols/18.5%20-%20Delegation.md)
+    6. [Adding Protocol Conformance with an Extension](/18%20-%20Protocols/18.6%20-%20Adding%20Protocol%20Conformance%20with%20an%20Extension.md)
+    7. [Protocol Inheritance and Class-only Protocols](/18%20-%20Protocols/18.7%20-%20Protocol%20Inheritance%20and%20Class-only%20Protocols.md)
+    8. [Protocol Composition](/18%20-%20Protocols/18.8%20-%20Protocol%20Composition.md)
+    9. [Protocol Extensions](/18%20-%20Protocols/18.9%20-%20Protocol%20Extensions.md)
 
 ## Stanford iOS Reading Exercised
 

@@ -115,6 +115,7 @@ Attempts have been made to keep the notes as brief as possible, and omit content
     7. [Protocol Inheritance and Class-only Protocols](/18%20-%20Protocols/18.7%20-%20Protocol%20Inheritance%20and%20Class-only%20Protocols.md)
     8. [Protocol Composition](/18%20-%20Protocols/18.8%20-%20Protocol%20Composition.md)
     9. [Protocol Extensions](/18%20-%20Protocols/18.9%20-%20Protocol%20Extensions.md)
+19. [Error Handling](/19%20-%20Error%20Handling/19.0%20-%20Error%20Handling.md)
 
 ## Stanford iOS Reading Exercised
 

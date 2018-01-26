@@ -135,3 +135,7 @@ Read all of sections 1 - 11, with the following exceptions:
 * Section 8.3 - Computed Properties
 * Part of Section 10 - Ignore Overriding Properties
 * Section 11.5 - 11.10 - Initializers
+
+### Reading 2
+
+Read all of the items in sections 1-11 that were omitted for Reading 1 (listed just above), and Sections 12-18.

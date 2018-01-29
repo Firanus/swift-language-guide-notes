@@ -116,6 +116,7 @@ Attempts have been made to keep the notes as brief as possible, and omit content
     8. [Protocol Composition](/18%20-%20Protocols/18.8%20-%20Protocol%20Composition.md)
     9. [Protocol Extensions](/18%20-%20Protocols/18.9%20-%20Protocol%20Extensions.md)
 19. [Error Handling](/19%20-%20Error%20Handling/19.0%20-%20Error%20Handling.md)
+20. [Type Checking](/20%20-%20Type%20Checking/20.0%20-%20Type%20Checking.md)
 
 ## Stanford iOS Reading Exercised
 
